@@ -1,7 +1,7 @@
 #-*- coding: UTF-8 -*-
-# create an numpy array 
+# create numpy array using functions 
 # Ruunning Mars, guanzhengcn@foxmail.com
-# 2020.11.26.19.39
+# 2020.11.26.22.24
 
 import numpy as np
 
