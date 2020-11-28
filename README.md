@@ -1,2 +1,5 @@
 # LearnNumpy
-Learning Numpy from Zero
+Learning Numpy from beginning
+
+
+Running Mars
