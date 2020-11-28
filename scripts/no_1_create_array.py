@@ -14,4 +14,4 @@ print(array_3d, array_3d.shape)         # shape means how many rows, columns, ..
 
 print(type(array_3d))       # take a look at the type of the array
 
-print(array_3d[0][1][0])       # access one elements in the array
+print(array_3d[0][1][0])    # access one elements in the array
